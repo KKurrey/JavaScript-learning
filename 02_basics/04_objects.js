@@ -80,3 +80,17 @@ console.log(courseInstructor);
 
 const {courseInstructor : instructor} = course // can give a different name to the property
 console.log(instructor);
+
+// format of APIs can be JSON or array
+
+//  {
+//     "name" : "Kranti",
+//     "courseName" : "Learning javaScript",
+//     "price" : "free"
+//  }
+
+[
+    {},
+    {},
+    {}
+]
